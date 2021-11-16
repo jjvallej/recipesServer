@@ -1,0 +1,23 @@
+{
+  "name": "recipes-server",
+  "version": "0.0.0",
+  "description": "RecipesServer",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@okta/jwt-verifier": "^2.3.0",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-bearer-token": "^2.4.0",
+    "json": "^11.0.0",
+    "ntypescript": "^1.201706190042.1",
+    "ntypescript-2": "^1.201609302242.1",
+    "typeorm": "^0.2.39",
+    "typescript": "^4.4.4"
+  }
+}
